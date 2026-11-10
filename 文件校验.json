@@ -1,0 +1,20 @@
+{
+  "version": "4.2",
+  "files": {
+    ".gitignore": "f8aa06bc1877c81c1069374fb3e8b8ea6a8d99831fcbf8589a26d76de8cbb345",
+    "LICENSE": "0db5b38b5dd6b04cfa6f4cdeb75f9a01b3e851349010a9f7af7098040264f8b0",
+    "LICENSE-upstream": "39db520f9483ddb84418c21d59547f39da00083bf2dae1039166299d64f715c3",
+    "README.md": "ef67e6c0a81c70fdc4915a037bea013efc1545a7dd52fd8dd2938eea1f083c92",
+    "SKILL.md": "09d4f5dedd2703803ebdccbe889d640b8d6d4435db6eccfdbcec152f6e766b88",
+    "SOURCE.md": "6d5e7dd836a474a23dca01d269fcf3daaa1c456bb7b5f53b45965132e5b8240a",
+    "快速开始.txt": "b21252ad3d2dfafca9291c9fdc46518aa018c0bef3970bacefdaef1d400aa204",
+    "examples/first-frame.jpg": "c09b13748ee1bc2ae081038d69d206d661c222fc1ce823d5c82704ca47aacd48",
+    "examples/stickman.mp4": "7ff2e712b93c19a30275a161ead91cef75aa295bfc50fcc1fd9727d40810f44f",
+    "scripts/create_narrative_project.py": "07082898e03d8d3c06fd157962fd2bfd4a67159df4bf558e9f6e28ddd36b65a6",
+    "assets/narrative-motion/camera-v4.cjs": "c6438332f81af7f58935f65c93235716898fc3d5b8531901830fd5c4601539a3",
+    "assets/narrative-motion/hook-timings.json": "b25b9c7700030a550f79a82ddf980b0d9e3fb08dc448a54d835415dd07973f68",
+    "assets/narrative-motion/music.wav": "1c3f08c1b63e78fcfc0a82e0a6bd89591ad3dcc09787ebd0d43bb88856431ee8",
+    "assets/narrative-motion/render.cjs": "614206580ff19425a312386a0ba0f58854b76fdaba172553a4b419ba0915bb8c",
+    "assets/narrative-motion/story-scenes.cjs": "6a0b5040b02c25529a26472ea9801281725bf60f2876c89af479ae8c8d25a330"
+  }
+}
